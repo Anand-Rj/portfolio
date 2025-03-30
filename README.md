@@ -61,7 +61,7 @@ records to enhance patient care and address blood shortages
 2024 9th International Conference on Control and Robotics Engineering (Osaka
 University, Japan)
 
-![ICCRE2024-Best Presentation Award](/assets/img/ICCRE2024-Best Presentation Award.jpeg)
+![ICCRE2024-Best Presentation Award](/assets/img/award1.jpeg)
 
 ### Outstanding Presentation Award - iCeMS World Premier International Research
 Centre Initiative Kyoto University @ Kyoto,JP - May 2024
