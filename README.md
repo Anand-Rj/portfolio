@@ -10,7 +10,7 @@
 
 #### Mathematics and Statistics: Probability and Statistics, Linear Algebra, Optimization Technique, Multivariate Calculus
 
-#### Data Visualization:} Power BI, Tableau
+#### Data Visualization: Power BI, Tableau
 
 
 ## Education								       		
