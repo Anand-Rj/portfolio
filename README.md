@@ -79,6 +79,8 @@ Centre Initiative Kyoto University @ Kyoto,JP - May 2024
 Presented my paperwork on “Precision Cashew farming” with the Biotech Panel
 members
 
+![Kyoto Presentation](/assets/img/kyoto.jpg)
+
 ## Conferences
 
 2024 9th International Conference on Control and Robotics Engineering(Osaka Unoiversity) @ Osaka,JP - May 2024
