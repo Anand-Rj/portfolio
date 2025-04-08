@@ -1,6 +1,17 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, MATLAB
+#### Courses: Deep Learning, Machine Learning, Artificial Intelligence, Foundation of Information science, Data Analytics, Web Application and IOT, Data Ethics, Database Management, Capstone Project
+
+#### Languages and Software: C, C++, Python, R, SQL, HTML, CSS, JavaScript, LATEX, MS Office 
+
+#### Machine Learning: Pytorch, Tensorflow, Neural Network training, Computer Vision, Sci-Kit tools, Generative AI, Bio informatics, AWS(Cloud based ML Service), Reinforcement Learning, Hyperparameter Tuning
+
+#### Deep Learning: Transformer (BERT and GPT'S)
+
+#### Mathematics and Statistics: Probability and Statistics, Linear Algebra, Optimization Technique, Multivariate Calculus
+
+#### Data Visualization:} Power BI, Tableau
+
 
 ## Education								       		
 - M.S., Information Science	| University of Arizona (_May 2025_)	 			        		
