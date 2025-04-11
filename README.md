@@ -122,6 +122,10 @@ members
  Pitched my AI Tech startup Idea with startup wildcats panel members and guest of
  50 members
 
+![Hygrivix Award-1](/assets/img/hygrivix1.jpg)
+
+![Hygrivix Award-2](/assets/img/hygrivix2.jpg)
+
 ## Conferences
 
 2024 9th International Conference on Control and Robotics Engineering(Osaka Unoiversity) @ Osaka,JP - May 2024
