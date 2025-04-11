@@ -4,9 +4,9 @@
 
 - Languages and Software: C, C++, Python, R, SQL, HTML, CSS, JavaScript, LATEX, MS Office 
 
-- Machine Learning: Pytorch, Tensorflow, Neural Network training, Computer Vision, Sci-Kit tools, Generative AI, Bio informatics, AWS(Cloud based ML Service), Reinforcement Learning, Hyperparameter Tuning
+- Machine Learning: Pytorch, Tensorflow, Neural Network training, Computer Vision, Sci-Kit tools, Generative AI, Transformers, Bio informatics, AWS(Cloud based ML Service), Reinforcement Learning, Hyperparameter Tuning
 
-- Deep Learning: Transformer (BERT and GPT'S)
+- LLM: BERT and GPT's
 
 - Mathematics and Statistics: Probability and Statistics, Linear Algebra, Optimization Technique, Multivariate Calculus
 
