@@ -12,6 +12,9 @@
 
 - Data Visualization: Power BI, Tableau
 
+## Google Scholar Link
+[Anand Ramaswamy Jayshree's Publication](https://scholar.google.com/citations?user=4-Lj0dsAAAAJ&hl=en)
+
 
 ## Education								       		
 - M.S., Information Science	| University of Arizona (_May 2025_)	 			        		
