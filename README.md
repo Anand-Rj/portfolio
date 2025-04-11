@@ -49,26 +49,60 @@ SDLC/STLC, collaborating with clients to refine requirements, coordinating cross
 managing QT project builds with automation integration 
 
 ## Projects and Publications
-### Early Detection of Brain Stroke using MRI Images (Published in IRJET Journal)
-[Publication](https://www.irjet.net/archives/V7/i9/IRJET-V7I9400.pdf)
 
-Developed an AI-powered stroke detection system using computer vision and machine learning, leveraging
-Gabor Filters and AHE for MRI preprocessing, Fuzzy C-Means for segmentation, GLCM for feature extraction,
-and Multiclass SVM for classification (90%+ accuracy), optimizing scalability and speed for medical imaging
+### Extraction of Blood component and Creating Synthetic Blood using Machine Learning (In Progress– College of Information science, University of Arizona)
+
+- Optimizing blood processing using Machine Learning (ML) for personalized blood component synthesis
+- Focused on on-demand generation of Red Blood Cells (RBCs), Platelets, Plasma, and Cryoprecipitate for medical
+ applications
+- ML-driven integration of personalized blood data into medical records for enhanced patient care
+- Aims to address blood shortages, especially for rare blood groups, and reduce immunological reactions
+
+### Live Break Application (INFO 698- Capstone Project)
+
+- Designed a journal recommendation system using collaborative filtering to suggest relevant articles to users
+- Integrated a Retrieval-Augmented Generation (RAG) model along with LLM to overcome the cold start problem
+ and enhance understanding of user preferences
+- Developed a custom OCR neural network to extract and digitize journal text, streamlining the editorial workflow
+- Delivered a robust solution improving both user engagement and editorial efficiency
 
 ### Intelligent Drone Design for Precision Cashew Farming (Published in IEEE Xplore)
 [Publication](https://ieeexplore.ieee.org/document/10589729)
 
-Engineered an AI-driven UAV system for precision agriculture, integrating MobileNetV2 for real-time leaf disease
-detection (95% accuracy for anthracnose, 99% for healthy leaves), leveraging edge computing for low-latency
-processing, and optimizing resource management with AI-driven pest control
+ - Engineered an AI-driven UAV system for automated disease detection and precision agriculture
+ - Integrated MobileNetV2 deep learning model for real-time leaf disease classification, achieving
+ - 95%accuracy for anthracnose detection
+ - 99%accuracy for healthy leaf identification
+ - Leveraged edge computing for on-device processing, minimizing latency and improving operational efficiency
+ - Optimized agricultural resource management using computer vision and AI-driven pest control
 
-### Extraction of Blood component and creating synthetic blood using Machine
-Learning (In Progress – College of Information science, University of Arizona)
+### Predicting Credit Card Customer Default Risk Using Machine Learning(Capstone Project- PGP DSBA)
+ 
+ - Developed a supervised learning model to predict credit card default probability based on account, purchase,
+ and delinquency data
+ - Conducted extensive EDA to identify customer behavior patterns, such as high default rates in Clothing, Shoes,
+ and Entertainment purchases
+ - Trained and evaluated five models: Naive Bayes, LDA, ADA Boost, Gradient Boosting, and KNN using accuracy,
+ recall, precision, F1, and AUC
+ - Performed hyperparameter tuning with Grid Search CV; LDA emerged as the top-performing model with high
+ recall, precision, and F1-score
+ - Provided actionable business insights and recommendations including dynamic interest rates and risk-based
+ penalty adjustments
 
-Optimized blood processing using ML for personalized blood component synthesis, enabling on-demand
-generation of RBCs, Platelets, Plasma, and Cryoprecipitate, integrating personalized blood data into medical
-records to enhance patient care and address blood shortages
+
+
+### Early Detection of Brain Stroke using MRI Images (Published in IRJET Journal)
+[Publication](https://www.irjet.net/archives/V7/i9/IRJET-V7I9400.pdf)
+ - Developed an AI-powered stroke detection system using computer vision and machine learning
+ - Implemented Gabor Filters and Adaptive Histogram Equalization (AHE) for MRI image preprocessing
+ - Applied Fuzzy C-Means Clustering for segmentation and Gray-Level Co-occurrence Matrix (GLCM) for feature
+ extraction
+ - Utilized Multiclass Support Vector Machine (SVM) for stroke classification, achieving 90%+ accuracy
+ - Designed an efficient, scalable, and high-speed medical imaging algorithm for stroke diagnosis
+
+
+
+
 
 ## Academic Achievements
 ### Best Presentation Award - IEEE Xplore @ Osaka,JP - May 2024
@@ -83,6 +117,10 @@ Presented my paperwork on “Precision Cashew farming” with the Biotech Panel
 members
 
 ![Kyoto Presentation](/assets/img/kyoto.jpg)
+
+ ### Awarded $ 1000 by Startup Wildcats as Pre-Seed Funding @ Tucson,AZ - Mar 2025
+ Pitched my AI Tech startup Idea with startup wildcats panel members and guest of
+ 50 members
 
 ## Conferences
 
